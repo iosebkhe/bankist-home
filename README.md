@@ -1,12 +1,4 @@
-<<<<<<< HEAD
-
 # Bankist PROJECT (MOBILE BANK.)
-
-=======
-
-# Bankist PROJECT
-
-> > > > > > > 9147919340d7f5ad8ab75207e5bb48c54d5ec11e
 
 Bankist Homepage
 
