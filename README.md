@@ -1,4 +1,4 @@
-# FORKIFY PROJECT
+# Bankist PROJECT (MOBILE BANK)
 
 Bankist Homepage
 
