@@ -1,4 +1,4 @@
-# Bankist PROJECT (MOBILE BANK.)
+# Bankist PROJECT
 
 Bankist Homepage
 
