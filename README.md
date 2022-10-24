@@ -1,4 +1,4 @@
-# FORKIFY PROJECT
+# Bankist PROJECT
 
 Bankist Homepage
 
